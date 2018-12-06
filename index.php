@@ -8,11 +8,12 @@
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css" />
 </head>
 <body>
+    <!-- header -->
     <header class="column">
         <div class="container">
             <div class="nav-bar">
                 <div class="nav-logo">
-                    LOGO
+                    <img src="assets/images/logo.png" />
                 </div>
                 <nav class="nav-link">
                     <ul>
@@ -25,6 +26,22 @@
                     </ul>
                 </nav>
             </div>    
+       </div>
+       <!--banner-->
+       <div class="banner-box">
+          <div class="banner-logo">
+              <img src="assets/images/logo.png"/>
+          </div>
+          <div class="banner-texto-box">
+              <span class="banner-texto" id="banner-texto-1">Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+              <span class="banner-texto" id="banner-texto-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do </span>
+          </div>
+          <a href="#" class="botao">Saiba mais</a>
+
+          <div class="banner-scroll">
+              <img src="assets/icons/mouse_scrolling-white-50.png"/>
+              <span class="banner-scroll-titulo">Deslize para baixo</span>
+          </div>
        </div>
     </header>
 </body>
