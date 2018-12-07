@@ -28,9 +28,10 @@
 /* TOPO */
 header {
     display: flex;
+    position: relative;
     align-content: center;
     background: url('../images/hero-01.jpg') no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
     height: 96vh;
     clip-path: polygon(0 0, 100% 0, 100% 78%, 50% 100%, 0 78%);
 }
@@ -129,4 +130,75 @@ header .nav-bar {
     display: block;
     font-family: raleway-bold;
     font-size: 15px;
+}
+
+/* SERVICOS */
+section#servicos {
+    display: flex;
+    justify-content: center;
+    height: auto;
+}
+
+.container-servicos {
+    width: 945px;
+}
+
+.servicos-titulo {
+    display: flex;
+    align-items: center;
+    padding-top: 65px;
+    padding-bottom: 65px;
+}
+
+.servicos-titulo h1 {
+    text-transform: uppercase;
+    font-family: raleway-bold;
+    color: #2980b9;
+}
+
+.hr-line {
+    width: 35px;
+    height: 5px;
+    background-color: #2980b9;
+}
+
+.servicos-detalhes {
+    display: flex;
+}
+
+.servicos-detalhes-item {
+    flex: 1;
+
+}
+
+.servicos-detalhes-item:not(:last-child) {
+margin-right: 230px;
+}
+
+.servicos-detalhes-img {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.servicos-detalhes-img img {
+    height: 60px;
+    align-self: center;
+}
+
+.servicos-detalhes-img .servicos-detalhes-img-titulo {
+    align-self: center;
+    font-family: raleway-bold;
+    font-size: 20px;
+    color: #616161;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.servicos-detalhes-desc {
+    font-family: raleway-medium;
+    font-size: 14px;
+    color: #868687;
+    display: flex;
+    text-align: center;
 }

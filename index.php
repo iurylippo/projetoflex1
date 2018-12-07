@@ -4,8 +4,8 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Page Title</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+    <link rel="stylesheet" type="text/css"  href="assets/css/style.css" />
 </head>
 <body>
     <!-- header -->
@@ -44,5 +44,43 @@
           </div>
        </div>
     </header>
+    <!--servicos-->
+    <section id="servicos">
+      <div class="container-servicos">
+        <div class="servicos-titulo column">
+          <h1>nossos serviços</h1>
+          <div class="hr-line"></div>
+        </div>
+        <div class="servicos-detalhes">
+          <div class="servicos-detalhes-item">
+            <div class="servicos-detalhes-img">
+              <img src="assets/icons/idea-100.png">
+              <span class="servicos-detalhes-img-titulo">Princípios</span>
+            </div>
+            <div class="servicos-detalhes-desc">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+            </div>
+          </div>
+          <div class="servicos-detalhes-item">
+            <div class="servicos-detalhes-img">
+              <img src="assets/icons/design-100.png">
+              <span class="servicos-detalhes-img-titulo">Designs</span>
+            </div>
+            <div class="servicos-detalhes-desc">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+            </div>
+          </div>
+          <div class="servicos-detalhes-item">
+            <div class="servicos-detalhes-img">
+              <img src="assets/icons/code-100.png">
+              <span class="servicos-detalhes-img-titulo">Código</span>
+            </div>
+            <div class="servicos-detalhes-desc">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
 </body>
 </html>
