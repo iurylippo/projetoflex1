@@ -113,5 +113,19 @@
            </div>
         </div>
     </section>
+    <!--time-->
+    <section id="time">
+         <div class="container column">
+           <div class="time-titulo">
+               <div class="section-titulo column">
+                  <h1>nossos serviços</h1>
+                  <div class="hr-line"></div>
+               </div>
+           </div>
+           <div class="time-container">
+               
+           </div>
+         </div>
+    </section>
 </body>
 </html>

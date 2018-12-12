@@ -276,3 +276,17 @@ section#portifolio .portifolio-projetos {
     background-size: 100% 100%;
 }
 
+/* TIME */
+section#time {
+    display: flex;
+    justify-content: center;
+    height: 600px;
+}
+
+section#time .time-titulo {
+    height: 165px;
+} 
+
+section#time .time-container {
+    flex: 1;
+}
