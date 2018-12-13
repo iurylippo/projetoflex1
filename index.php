@@ -126,7 +126,18 @@
                </div>
            </div>
            <div class="time-container">
-               
+               <div class="time-container-item">
+
+               </div>
+               <div class="time-container-item">
+
+               </div>
+               <div class="time-container-item">
+
+               </div>
+               <div class="time-container-item">
+
+               </div>
            </div>
          </div>
     </section>
