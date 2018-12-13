@@ -287,6 +287,20 @@ section#time .time-titulo {
     height: 165px;
 } 
 
+.section-titulo .hr-line {
+ margin-top: 10px;
+ margin-bottom: 20px;
+}
+
 section#time .time-container {
     flex: 1;
+}
+
+section#time .time-desc {
+    padding-right: 300px;
+    padding-left: 300px;
+    font-size: 14px;
+    font-family: raleway-medium;
+    text-align: center;
+    color: #868687;
 }

@@ -120,6 +120,9 @@
                <div class="section-titulo column">
                   <h1>nossos serviços</h1>
                   <div class="hr-line"></div>
+                  <div class="time-desc">
+                      Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
+                  </div>
                </div>
            </div>
            <div class="time-container">
