@@ -127,16 +127,24 @@
            </div>
            <div class="time-container">
                <div class="time-container-item">
+                 <div class="time-container-item-img" id="time-img-1">
 
+                 </div>
                </div>
                <div class="time-container-item">
+                  <div class="time-container-item-img" id="time-img-2">
 
+                  </div>
                </div>
                <div class="time-container-item">
+                 <div class="time-container-item-img" id="time-img-3">
 
+                 </div>
                </div>
                <div class="time-container-item">
+                 <div class="time-container-item-img" id="time-img-4">
 
+                 </div>
                </div>
            </div>
          </div>
