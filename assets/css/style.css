@@ -339,3 +339,19 @@ section#time #time-img-4 {
     background: url('../images/team4.jpg') center no-repeat;
     background-size: 100% 115%;
 }
+
+section#time .time-item-nome {
+    color: #2980b9;
+    font-size: 20px;
+    font-family: raleway-bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+section#time .time-item-cargo {
+    color: #a5a6a7;
+    font-size: 15px;
+    font-family: raleay-medium;
+    text-align: center;
+}

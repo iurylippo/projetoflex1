@@ -130,20 +130,44 @@
                  <div class="time-container-item-img" id="time-img-1">
 
                  </div>
+                 <div class="time-item-nome">
+                    Nome
+                 </div>
+                 <div class="time-item-cargo">
+                    Cargo
+                 </div>
                </div>
                <div class="time-container-item">
                   <div class="time-container-item-img" id="time-img-2">
 
                   </div>
+                  <div class="time-item-nome">
+                    Nome
+                 </div>
+                 <div class="time-item-cargo">
+                    Cargo
+                 </div>
                </div>
                <div class="time-container-item">
                  <div class="time-container-item-img" id="time-img-3">
 
                  </div>
+                 <div class="time-item-nome">
+                    Nome
+                 </div>
+                 <div class="time-item-cargo">
+                    Cargo
+                 </div>
                </div>
                <div class="time-container-item">
                  <div class="time-container-item-img" id="time-img-4">
 
+                 </div>
+                 <div class="time-item-nome">
+                    Nome
+                 </div>
+                 <div class="time-item-cargo">
+                    Cargo
                  </div>
                </div>
            </div>
