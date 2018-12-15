@@ -459,3 +459,47 @@ section#clientes  #hr-line-full {
     margin-bottom: 10px;
     align-self: center;
 }
+
+section#clientes .clientes-desc-2 {
+    align-self: center;
+    display: flex;
+    margin-top: 55px;
+    margin-bottom: 30px;
+    height: 85px;
+    width: 860px;
+}
+
+.clientes-desc-2 .clientes-desc-2-left, 
+.clientes-desc-2 .clientes-desc-2-right {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    
+}
+
+.clientes-desc-2 .clientes-desc-2-conteudo {
+    flex: 8;
+    text-align: center;
+    font-family: raleway-medium;
+    font-size: 18px;
+    color: #9b9c9d;
+}
+
+section#clientes .clientes-nome {
+    align-self: center;
+}
+
+.clientes-nome .blue {
+    font-family: raleway-bold;
+    font-size: 18px;
+    color: #2980b9;
+}
+
+.clientes-nome .dark {
+    font-family: raleway-bold;
+    font-size: 18px;
+    color: #909192;
+}
+
+
+

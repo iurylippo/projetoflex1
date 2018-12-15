@@ -227,6 +227,20 @@
           </div>
         </div>
         <div class="hr-line" id="hr-line-full"></div>
+        <div class="clientes-desc-2">
+          <div class="clientes-desc-2-left">
+            <img src="assets/icons/left-arrow.png"/>
+          </div>
+          <div class="clientes-desc-2-conteudo">
+            Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas 
+          </div>
+          <div class="clientes-desc-2-right">
+            <img src="assets/icons/right-arrow.png"/>
+          </div>
+        </div>
+        <div class="clientes-nome">
+          <span class="blue">Cliente Nome</span>, <span class="dark">Empresa</span>
+        </div>
       </div>
     </section>
 </body>
