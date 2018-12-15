@@ -415,3 +415,47 @@ section#localizacao .localizacao-mapa {
 .localizacao-mapa .ponto img{
     height: 30px;
 }
+
+/* CLIENTES */
+section#clientes {
+    display: flex;
+    justify-content: center;
+    height: 515px;
+}
+
+section#clientes .container {
+    justify-content: flex-start;
+}
+
+section#clientes .clientes-titulo {
+    height: 165px;
+    margin-bottom: 60px;
+}
+
+section#clientes .clientes-desc {
+    padding-right: 300px;
+    padding-left: 300px;
+    font-size: 14px;
+    font-family: raleway-medium;
+    text-align: center;
+    color: #909192;
+}
+
+section#clientes .clientes-item {
+    display: flex;
+    height: 45px;
+}
+
+.clientes-item .clientes-item-img {
+    display: flex;
+    justify-content: center;
+    flex: 1;
+}
+
+section#clientes  #hr-line-full {
+    width: 92%;
+    height: 1px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    align-self: center;
+}

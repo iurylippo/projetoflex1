@@ -178,7 +178,7 @@
       <div class="container column">
         <div class="localizacao-titulo">
                <div class="section-titulo column">
-                  <h1>nosso portifólio</h1>
+                  <h1>nossa localização</h1>
                   <div class="hr-line"></div>
                   <div class="localizacao-desc">
                       Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
@@ -192,6 +192,41 @@
             blabla
           </div>  
         </div>
+      </div>
+    </section>
+    <!--clientes-->
+    <section id="clientes">
+      <div class="container column">
+        <div class="clientes-titulo">
+               <div class="section-titulo column">
+                  <h1>nossos clientes</h1>
+                  <div class="hr-line"></div>
+                  <div class="clientes-desc">
+                      Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
+                  </div>
+               </div>
+        </div>
+        <div class="clientes-item">
+          <div class="clientes-item-img" id="clientes-item-img-1">
+            <img src="assets/images/logo-google.png"/>
+          </div>
+          <div class="clientes-item-img" id="clientes-item-img-2">
+            <img src="assets/images/logo-booking.png"/>
+          </div>
+          <div class="clientes-item-img" id="clientes-item-img-3">
+            <img src="assets/images/logo-dropbox.png"/>
+          </div>
+          <div class="clientes-item-img" id="clientes-item-img-4">
+            <img src="assets/images/logo-facebook.png"/>
+          </div>
+          <div class="clientes-item-img" id="clientes-item-img-5">
+            <img src="assets/images/logo-groupon.png"/>
+          </div>
+          <div class="clientes-item-img" id="clientes-item-img-6">
+            <img src="assets/images/logo-paypal.png"/>
+          </div>
+        </div>
+        <div class="hr-line" id="hr-line-full"></div>
       </div>
     </section>
 </body>
