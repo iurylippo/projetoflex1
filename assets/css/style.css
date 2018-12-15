@@ -151,7 +151,7 @@ section#servicos {
     display: flex;
     align-items: center;
     padding-top: 65px;
-    padding-bottom: 65px;
+    
 }
 
 .section-titulo h1 {
@@ -358,4 +358,49 @@ section#time .time-item-cargo {
     font-size: 15px;
     font-family: raleay-medium;
     text-align: center;
+}
+
+/* LOCALIZACAO */
+section#localizacao {
+    display: flex;
+    justify-content: center;
+    height: 960px;
+    clip-path: polygon(0 0, 50% 22%, 100% 0, 100% 78%, 50% 100%, 0 78%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('../images/hero-03.JPG');
+    background-size: 100% 100%;
+}
+
+section#localizacao .container {
+    margin-top: 212px;
+    height: auto;
+    justify-content: flex-start;
+}
+
+section#localizacao .localizacao-titulo {
+    height: 165px;
+    margin-bottom: 60px;
+}
+
+section#localizacao .localizacao-titulo .section-titulo h1
+ {
+    color: #fafcfe;
+}
+
+section#localizacao .localizacao-titulo .section-titulo .hr-line {
+    background-color: #fafcfe;
+}
+
+section#localizacao .localizacao-desc {
+    padding-right: 300px;
+    padding-left: 300px;
+    font-size: 14px;
+    font-family: raleway-medium;
+    text-align: center;
+    color: #fafcfe;
+}
+
+section#localizacao .localizacao-mapa {
+    height: 390px;
+    display: flex;
+    justify-content: center;
 }

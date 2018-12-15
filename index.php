@@ -87,7 +87,7 @@
         <div class="container column">
            <div class="portifolio-titulo">
                <div class="section-titulo column">
-                  <h1>nossos serviços</h1>
+                  <h1>nosso portifólio</h1>
                   <div class="hr-line"></div>
                </div>
            </div>
@@ -118,7 +118,7 @@
          <div class="container column">
            <div class="time-titulo">
                <div class="section-titulo column">
-                  <h1>nossos serviços</h1>
+                  <h1>nosso time</h1>
                   <div class="hr-line"></div>
                   <div class="time-desc">
                       Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
@@ -172,6 +172,23 @@
                </div>
            </div>
          </div>
+    </section>
+    <!--localizacao-->
+    <section id="localizacao">
+      <div class="container column">
+        <div class="localizacao-titulo">
+               <div class="section-titulo column">
+                  <h1>nosso portifólio</h1>
+                  <div class="hr-line"></div>
+                  <div class="localizacao-desc">
+                      Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
+                  </div>
+               </div>
+        </div>
+        <div class="localizacao-mapa">
+          <img src="assets/images/world-atlas.png">
+        </div>
+      </div>
     </section>
 </body>
 </html>
