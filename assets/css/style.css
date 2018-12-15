@@ -403,4 +403,15 @@ section#localizacao .localizacao-mapa {
     height: 390px;
     display: flex;
     justify-content: center;
+    position: relative;
+}
+
+.localizacao-mapa .ponto {
+    position: absolute;
+    left: 215px;
+    bottom: 55px;
+}
+
+.localizacao-mapa .ponto img{
+    height: 30px;
 }
