@@ -322,22 +322,26 @@ section#time .time-container-item:not(:last-child) {
 
 section#time #time-img-1 {
     background: url('../images/team1.jpg') center no-repeat;
-    background-size: 100% 120%;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 section#time #time-img-2 {
     background: url('../images/team2.jpg') center no-repeat;
-    background-size: 100% 120%;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 section#time #time-img-3 {
     background: url('../images/team3.jpg') center no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 section#time #time-img-4 {
     background: url('../images/team4.jpg') center no-repeat;
-    background-size: 100% 115%;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 section#time .time-item-nome {
