@@ -177,13 +177,13 @@
     <section id="localizacao">
       <div class="container column">
         <div class="localizacao-titulo">
-               <div class="section-titulo column">
+              <div class="section-titulo column">
                   <h1>nossa localização</h1>
                   <div class="hr-line"></div>
                   <div class="localizacao-desc">
                       Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
-                  </div>
-               </div>
+              </div>
+        </div>
         </div>
         <div class="localizacao-mapa">
           <img src="assets/images/world-atlas.png"/>
@@ -243,9 +243,19 @@
         </div>
       </div>
     </section>
-    <!--clientes-->
+    <!--contato-->
     <section id="contato">
-      
+      <div class="container column">
+        <div class="contato-titulo">
+              <div class="section-titulo column">
+                  <h1>contato</h1>
+                  <div class="hr-line"></div>
+                  <div class="contato-desc">
+                      Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
+              </div>
+        </div>
+        </div>
+      </div>
     </section>
 </body>
 </html>

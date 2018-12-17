@@ -511,3 +511,31 @@ section#contato {
     background-size: 100% 100%;
 }
 
+section#contato .container {
+    margin-top: 166px;
+    height: auto;
+    justify-content: flex-start;
+}
+
+section#contato .contato-titulo {
+    height: 165px;
+    margin-bottom: 60px;
+}
+
+section#contato .contato-titulo .section-titulo h1
+ {
+    color: #fafcfe;
+}
+
+section#contato .contato-titulo .section-titulo .hr-line {
+    background-color: #fafcfe;
+}
+
+section#contato .contato-desc {
+    padding-right: 300px;
+    padding-left: 300px;
+    font-size: 14px;
+    font-family: raleway-medium;
+    text-align: center;
+    color: #fafcfe;
+}
