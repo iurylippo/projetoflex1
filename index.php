@@ -253,7 +253,64 @@
                   <div class="contato-desc">
                       Algumas descricoes para exemplificar Algumas descricoes para exemplificar Algumas descricoes para exemplificar  
               </div>
+            </div>
         </div>
+        <div class="contato-item-container">
+          <div class="contato-item column">
+            <div class="contato-item-img">
+              <img src="assets/icons/phone_office-100-white.png"/>
+            </div>
+            <div class="contato-item-nome">
+              Telefone
+            </div>
+            <div class="contato-item-desc">
+              (99) 99999-9999
+            </div>
+          </div>
+          <div class="contato-item column">
+            <div class="contato-item-img">
+              <img src="assets/icons/read_message-100-white.png"/>
+            </div>
+            <div class="contato-item-nome">
+              E-mail
+            </div>
+            <div class="contato-item-desc">
+              emailexemplo@gmail.com
+            </div>
+          </div>
+          <div class="contato-item column">
+            <div class="contato-item-img">
+              <img src="assets/icons/twitter-100-white.png"/>
+            </div>
+            <div class="contato-item-nome">
+              Twitter
+            </div>
+            <div class="contato-item-desc">
+              @TwitterExemplo
+            </div>
+          </div>
+          <div class="contato-item column">
+            <div class="contato-item-img">
+              <img src="assets/icons/facebook-100-white.png"/>
+            </div>
+            <div class="contato-item-nome">
+              Facebook
+            </div>
+            <div class="contato-item-desc">
+              Empresa Nome
+            </div>
+          </div>
+          <div class="contato-item column">
+            <div class="contato-item-img">
+              <img src="assets/icons/linkedin-100-white.png"/>
+            </div>
+            <div class="contato-item-nome">
+              Linkedin
+            </div>
+            <div class="contato-item-desc">
+              Empresa Nome
+            </div>
+          </div>
         </div>
       </div>
     </section>

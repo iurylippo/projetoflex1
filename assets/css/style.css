@@ -539,3 +539,28 @@ section#contato .contato-desc {
     text-align: center;
     color: #fafcfe;
 }
+
+section#contato .contato-item-container {
+    display: flex;
+    height: auto;
+}
+
+section#contato .contato-item-container .contato-item {
+    display: flex;
+    flex: 1;
+    align-items: center;
+}
+
+.contato-item .contato-item-nome {
+    font-family: raleway-bold;
+    font-size: 20px;
+    color: #fafcfe;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.contato-item .contato-item-desc {
+    font-family: raleway-medium;
+    font-size: 15px;
+    color: #dcdee0;
+}
