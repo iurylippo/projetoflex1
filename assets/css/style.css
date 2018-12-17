@@ -501,5 +501,13 @@ section#clientes .clientes-nome {
     color: #909192;
 }
 
-
+/* CLIENTES */
+section#contato {
+    display: flex;
+    justify-content: center;
+    height: 750px;
+    clip-path: polygon(0 0, 50% 22%, 100% 0, 100% 100%, 0% 100%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.8)), url('../images/hero-04.JPG');
+    background-size: 100% 100%;
+}
 
