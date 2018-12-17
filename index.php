@@ -312,6 +312,9 @@
             </div>
           </div>
         </div>
+        <div class="copy-right">
+          Todos os direitos reservadors &copy; Empresa Nome 2018 
+        </div>
       </div>
     </section>
 </body>

@@ -564,3 +564,11 @@ section#contato .contato-item-container .contato-item {
     font-size: 15px;
     color: #dcdee0;
 }
+
+.copy-right {
+    font-family: raleway-medium;
+    font-size: 15px;
+    color: #dcdee0;
+    text-align: center;
+    margin-top: 90px;
+}
