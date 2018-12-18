@@ -6,6 +6,7 @@
     <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
     <link rel="stylesheet" type="text/css"  href="assets/css/style.css" />
+    <link rel="stylesheet" type="text/css"  href="assets/css/media.css" />
 </head>
 <body>
     <!-- header -->
