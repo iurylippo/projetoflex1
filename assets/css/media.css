@@ -81,7 +81,7 @@
 	}
 
 	.banner-box .banner-scroll {
-    padding-top: 200px;
+    padding-top: 100px;
     }
 
     section#portifolio .container,
@@ -92,6 +92,10 @@
 
     .servicos-detalhes-item:not(:last-child) {
     margin-right: 80px;
+    }
+
+    section#time .time-container-item {
+        margin-right: 20px
     }
 
     .clientes-item .clientes-item-img img {
@@ -107,6 +111,8 @@
     section#contato {
     	height: 520px;
     }
+
+
 
     section#time {
     	height: auto;
@@ -152,6 +158,11 @@
     margin-bottom: 25px;
     }
 
+    .contato-item .contato-item-desc {
+        font-size: 12px;
+    }
+
+
     section#localizacao .localizacao-titulo {
     height: 165px;
     margin-bottom: 0px;
@@ -187,6 +198,10 @@
 	.container-servicos {
 		max-width: 320px;
 	}
+
+    section#contato .container {
+     max-width: 600px;
+    }
 
     .nav-bar {
     	justify-content: flex-start;
@@ -226,7 +241,7 @@
    }
 
 	.banner-box .banner-scroll {
-    padding-top: 100px;
+    padding-top: 60px;
     }
 
     .servicos-detalhes {
@@ -306,6 +321,9 @@
         justify-content: center;
     }
 
+    section#portifolio .container {
+    height: 65%;
+    } 
     .contato-item img {
     	height: 20px;
     }
@@ -372,6 +390,10 @@
     section#time .time-titulo {
     height: 165px;
     margin-bottom: 0px;
+    }
+
+    section#time .time-container-item:not(:last-child) {
+    margin-right: 0px;
     }
 
 
