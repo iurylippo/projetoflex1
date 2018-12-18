@@ -1,1 +1,50 @@
 /* MEDIA-QUERY */
+@media screen and (max-width: 1190px) {
+	.container,
+	.container-servicos {
+		width: 820px;
+	}
+
+	.servicos-detalhes-item:not(:last-child) {
+    margin-right: 120px;
+    }
+
+    section#portifolio,
+    section#localizacao,
+    section#contato {
+    	height: 680px;
+    }
+
+    section#portifolio .container,
+    section#localizacao .container,
+    section#contato .container {
+    margin-top: 150px;
+    }
+
+    section#portifolio .container {
+    	height: 52%;
+    }
+
+    .portifolio-projetos-item {
+    max-width: 272.667px;
+    height: auto;
+    }
+
+    .section-titulo {
+    	padding-top: 30px;
+    }
+
+    .section-titulo h1 {
+    	font-size: 22px;
+    }
+
+    section#portifolio .portifolio-titulo {
+    height: 95px;
+    }
+
+    .clientes-item .clientes-item-img img {
+    	max-width: 100px;
+    }
+ 
+}
+
