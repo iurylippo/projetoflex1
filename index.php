@@ -190,7 +190,6 @@
           <img src="assets/images/world-atlas.png"/>
           <div class="ponto">
             <img class="ponto" src="assets/icons/marker-100-white.png"/>
-            blabla
           </div>  
         </div>
       </div>

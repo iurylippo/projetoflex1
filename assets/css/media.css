@@ -1,5 +1,5 @@
 /* MEDIA-QUERY */
-@media screen and (max-width: 1190px) {
+@media screen and (min-width: 877px) and ( max-width: 1190px) {
 	.container,
 	.container-servicos {
 		width: 820px;
@@ -13,6 +13,10 @@
     section#localizacao,
     section#contato {
     	height: 680px;
+    }
+
+    .banner-box .banner-scroll {
+    padding-top: 200px;
     }
 
     section#portifolio .container,
@@ -45,6 +49,135 @@
     .clientes-item .clientes-item-img img {
     	max-width: 100px;
     }
- 
+
+    section#localizacao .localizacao-titulo {
+    height: 165px;
+    margin-bottom: 0px;
+    }
+
+    .localizacao-mapa img {
+    	height: 320px;
+    }
+
+    .localizacao-mapa .ponto {
+    	left: 35%;
+    	bottom: 35%;
+    }
 }
 
+@media screen and (max-width: 876px) {
+    .container,
+	.container-servicos {
+		max-width: 600px;
+	}
+
+    .nav-bar {
+    	justify-content: center;
+    	width: auto;
+    }
+
+	.nav-bar .nav-logo {
+		display: none;
+	}
+
+	.banner-box .banner-scroll {
+    padding-top: 200px;
+    }
+
+    section#portifolio .container,
+    section#localizacao .container,
+    section#contato .container {
+    margin-top: 115px;
+    }
+
+    .servicos-detalhes-item:not(:last-child) {
+    margin-right: 80px;
+    }
+
+    .clientes-item .clientes-item-img img {
+    	max-width: 80px;
+    }
+
+    section#clientes .clientes-desc-2 {
+    	width: auto;
+    }
+
+    section#portifolio,
+    section#localizacao,
+    section#contato {
+    	height: 520px;
+    }
+
+    section#time {
+    	height: auto;
+    }
+
+    .section-titulo h1 {
+    	font-size: 20px;
+    }
+
+    .section-titulo {
+    	padding-top: 30px;
+    }
+
+    section#portifolio .portifolio-titulo {
+        height: 95px;
+    }
+   
+    .portifolio-projetos-item {
+    	max-width: 220px;
+    }
+
+    section#portifolio .portifolio-projetos {
+        justify-content: center;
+    }
+
+    .contato-item img {
+    	height: 50px;
+    }
+
+    .copy-right {
+    	margin-top: 50px;
+    }
+
+    .time-desc,
+    .localizacao-desc,
+    .clientes-desc,
+    .contato-desc {
+    	padding-right: 200px !important;
+        padding-left: 200px !important;
+    }
+
+    section#contato .contato-titulo {
+    margin-bottom: 25px;
+    }
+
+    section#localizacao .localizacao-titulo {
+    height: 165px;
+    margin-bottom: 0px;
+    }
+
+    .localizacao-mapa img {
+    	height: 240px;
+    }
+
+    .localizacao-mapa .ponto {
+    	left: 35%;
+    	bottom: 30%;
+    }
+
+    .banner-box {
+    width: 600px
+    }
+
+    section#time .time-container {
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+    section#time .time-container .time-container-item {
+    flex: none;
+    width: 222px;
+    }
+
+}
