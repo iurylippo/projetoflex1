@@ -17,6 +17,11 @@
                     <img src="assets/images/logo.png" />
                 </div>
                 <nav class="nav-link">
+                  <div class="nav-botao">
+                    <div class="nav-botao-linha"></div>
+                    <div class="nav-botao-linha"></div>
+                    <div class="nav-botao-linha"></div>
+                  </div>
                     <ul>
                         <li><a href="#">Serviços</a></li>
                         <li><a href="#">Portifolio</a></li>
